@@ -1,0 +1,17 @@
+# --- FILE KONFIGURASI & DATABASE SENSITIF ---
+config.php
+koneksi.php
+database.php
+.env
+
+# --- FILE BACKUP & LOG ---
+*.log
+*.sql
+*.bak
+
+# --- FILE SISTEM OPERASI (SAMPAH) ---
+Thumbs.db
+.DS_Store
+
+# --- FOLDER UPLOAD DOKUMEN WARGA ---
+uploads/
